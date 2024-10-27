@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FirstReactApp-ComponentesDeClase/static/css/main.4a62caa4.css",
+    "main.js": "/FirstReactApp-ComponentesDeClase/static/js/main.66afcfbf.js",
+    "static/media/testimonio-ivan.jpg": "/FirstReactApp-ComponentesDeClase/static/media/testimonio-ivan.5086c7109889ffea5b2f.jpg",
+    "static/media/testimonio-angel.jpg": "/FirstReactApp-ComponentesDeClase/static/media/testimonio-angel.6f387706bb505b9d9048.jpg",
+    "static/media/testimonio-efren.jpg": "/FirstReactApp-ComponentesDeClase/static/media/testimonio-efren.d599f36709336c82ed19.jpg",
+    "index.html": "/FirstReactApp-ComponentesDeClase/index.html",
+    "main.4a62caa4.css.map": "/FirstReactApp-ComponentesDeClase/static/css/main.4a62caa4.css.map",
+    "main.66afcfbf.js.map": "/FirstReactApp-ComponentesDeClase/static/js/main.66afcfbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a62caa4.css",
+    "static/js/main.66afcfbf.js"
+  ]
+}
