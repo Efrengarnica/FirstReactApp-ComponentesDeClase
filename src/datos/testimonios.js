@@ -8,7 +8,7 @@ const testimonios=[
         testimonio: 'Innovación y Crecimiento Digital: Desde la creación de sitios web y aplicaciones móviles hasta la automatización de procesos en empresas y la inteligencia artificial, la programación se ha convertido en una herramienta clave para impulsar la innovación y el crecimiento en el mundo digital. Sin programación, muchas de las tecnologías que damos por sentadas hoy no existirían'
       },
       {
-        nombre: 'Iván Arratia',
+        nombre: 'Iván Arratia ',
         pais: 'México',
         imagen: 'ivan',
         cargo: 'Ingeniero en Computación',
@@ -18,7 +18,7 @@ const testimonios=[
       {
         nombre: 'Angel Andrade',
         pais: 'México',
-        imagen: 'angel',
+        imagen: 'angel', 
         cargo: 'Desarrollador Java',
         empresa: 'Genereishop',
         testimonio: '<strong>Transformación</strong> de Industrias: Desde la salud hasta las finanzas, la manufactura y el entretenimiento, la programación impulsa la innovación y la eficiencia en diversas industrias. Este artículo explora cómo la programación está transformando sectores clave, destacando su importancia y el impacto que tiene en nuestra vida diaria'
